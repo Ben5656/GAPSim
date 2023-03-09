@@ -11,5 +11,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="github.doyaaaaaken.kotlin.csv.jvm" level="project" />
+    <orderEntry type="library" name="github.doyaaaaaken.kotlin.csv.js" level="project" />
   </component>
 </module>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="github.doyaaaaaken.kotlin.csv.js" type="repository">
+    <properties maven-id="com.github.doyaaaaaken:kotlin-csv-js:1.8.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/doyaaaaaken/kotlin-csv-js/1.8.0/kotlin-csv-js-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-js/1.6.21/kotlin-stdlib-js-1.6.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.21/kotlin-stdlib-common-1.6.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
